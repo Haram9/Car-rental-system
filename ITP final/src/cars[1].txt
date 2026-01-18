@@ -1,0 +1,17 @@
+101 Economy 35.0 false false free
+102 Economy 35.0 false false free
+103 Compact 45.0 false false free
+104 Compact 45.0 false false free
+105 Compact 45.0 false false free
+201 Economy 35.0 true false free
+202 Economy 35.0 true false free
+203 Compact 45.0 true false free
+204 Compact 45.0 true false free
+205 Compact 45.0 true false free
+301 Midsize 55.0 true true free
+302 Midsize 55.0 true true free
+303 Fullsize 75.0 true true free
+304 Fullsize 75.0 true true free
+305 Fullsize 75.0 true true free
+306 SUV 95.0 true true free
+307 SUV 95.0 true true free
